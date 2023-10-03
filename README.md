@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm ChengWei Sun
+I'm a research assistant in the SRLab, IES, Academia Sinica, Taipei, Taiwan.
+My interests including developing GIS toolboxes, UAV-related payload data processing.
 
 <!--
 **digieologist/digieologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
